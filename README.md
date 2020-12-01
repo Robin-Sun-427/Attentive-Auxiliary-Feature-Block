@@ -21,7 +21,7 @@ The personal implement of paper《Lightweight Single-Image Image SR with Attenti
  * 完成了使用测试集的测试过程
     
 
-## 2020 12/1 updated
+## 2020 12/1 updated!
 
  (1)use image patches pairs created by Random Crop approach as network model input datasets 
     
