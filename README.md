@@ -1,7 +1,7 @@
 # Attentive-Auxiliary-Feature-Block
 
 
-The personal implement of paper《Lightweight Single-Image Image SR with Attentive Auxiliary Feature Learning》(ACCV) by Pytorch.
+The personal implement of paper《Lightweight Single-Image Image SR with Attentive Auxiliary Feature Learning》(ACCV 2020) by Pytorch.
 ---------
 
     I will keep updated
