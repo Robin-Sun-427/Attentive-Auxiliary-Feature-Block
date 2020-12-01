@@ -23,9 +23,9 @@ The personal implement of paper《Lightweight Single-Image Image SR with Attenti
 
 ## 2020 12/1 updated!
 
- (1)use image patches pairs created by Random Crop approach as network model input datasets 
+ (1)use image patches pairs created by Random Crop approach as network model input datasets instead of using CenterCrop of each input images
     
- * 更新`datasets.py`：对网络输入图像进行随机裁剪，构成patches pairs 作为input和label
+ * 更新`datasets.py`：对网络输入图像进行随机裁剪，构成patches pairs 作为input和label。
 
 
 
